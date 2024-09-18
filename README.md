@@ -21,9 +21,7 @@ Enter the principal amount: 1000
 Enter the rate of interest: 5
 Enter the time period (in years): 2
 The simple interest is: 100.0
-```
 
----
 
 ### Lab 2: **Body Mass Index (BMI) Calculator**
 
